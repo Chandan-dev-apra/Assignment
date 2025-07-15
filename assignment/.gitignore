@@ -1,0 +1,10 @@
+# Ignore Visual Studio and build artifacts
+.vs/
+out/
+*.exe
+*.obj
+*.vcxproj*
+*.sln
+*.user
+*.log
+*.opendb
